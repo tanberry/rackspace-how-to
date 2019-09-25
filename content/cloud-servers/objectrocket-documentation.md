@@ -13,14 +13,11 @@ product_url: cloud-servers
 
 ### What is ObjectRocket?
 
-ObjectRocket is a database as a service (DBaaS) that is based on the popular MongoDB
-database. The ObjectRocket infrastructure has been designed for MongoDB.
+ObjectRocket is a database-as-a-service (DBaaS) that provides fully-managed database services, with multi-cloud suppport for 5 different databases. We offer database hosting, management, and administration for modern sites and applications in data centers across the globe. The ObjectRocket platform is Kubernetes-based, using the latest containerization and automation technologies to ensure highly available, robust data stores.
 
-Get to know ObjectRocket by [watching an interview](http://www.youtube.com/watch?v=q_necZ_HG5g) with founder and
-Chief Architect, Kenny Gorman.
+Get to know ObjectRocket by reading our [blogs](https://www.objectrocket.com/blog/) and checking out our Services at a Scale pages on our [website](https://www.objectrocket.com/services/).
 
-This article provides information about the documentation that is available for
-ObjectRocket. 
+This article provides information about the documentation that is available for ObjectRocket. 
 
 ### Getting started
 
