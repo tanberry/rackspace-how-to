@@ -22,7 +22,7 @@ This article provides information about the documentation that is available for 
 ### Getting started
 
 The [Getting Started Guide](https://objectrocket.com/docs/getting_started.html) helps you understand get up and
-running on the ObjectRocket platform. It assumes use of the ObjectRocket web interface and guides you through the following
+running on the ObjectRocket platform. It assumes use of the ObjectRocket web interface UI) and guides you through the following
 steps:
 
 1.  Get an ObjectRocket account
