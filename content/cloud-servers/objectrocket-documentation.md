@@ -13,17 +13,16 @@ product_url: cloud-servers
 
 ### What is ObjectRocket?
 
-ObjectRocket is a database-as-a-service (DBaaS) that provides fully-managed database services, with multi-cloud suppport for 5 different databases. We offer database hosting, management, and administration for modern sites and applications in data centers across the globe. The ObjectRocket platform is Kubernetes-based, using the latest containerization and automation technologies to ensure highly available, robust data stores.
+ObjectRocket is a database-as-a-service (DBaaS) that provides fully-managed database services, with multi-cloud support for 5 different databases. We offer database hosting, management, and administration for modern sites and applications in data centers across the globe. The ObjectRocket platform is Kubernetes-based, using the latest containerization and automation technologies to ensure highly available, robust data stores.
 
-Get to know ObjectRocket by reading our [blogs](https://www.objectrocket.com/blog/) and checking out our Services at a Scale pages on our [website](https://www.objectrocket.com/services/).
+Get to know ObjectRocket by reading our [blogs](https://www.objectrocket.com/blog/) and checking out our "Services at a Scale" pages on our [website](https://www.objectrocket.com/services/).
 
-This article provides information about the documentation that is available for ObjectRocket. 
+This article provides information about the documentation that is available for ObjectRocket.
 
 ### Getting started
 
 The [Getting Started Guide](https://objectrocket.com/docs/getting_started.html) helps you understand get up and
-running on the ObjectRocket system. It assumes use of
-the ObjectRocket web interface and guides you through the following
+running on the ObjectRocket system. It assumes use of the ObjectRocket web interface and guides you through the following
 steps:
 
 1.  Get an ObjectRocket account
@@ -36,15 +35,13 @@ Read the [Getting Started Guide](https://objectrocket.com/docs/getting_started.h
 
 ### Backup and recovery
 
-Data backups are provided to give you access to point-in-time
-copies of your data. Backups are taken at regular intervals.
+Data backups are provided to give you access to point-in-time copies of your data. Backups are taken at regular intervals.
 
 Learn more about backups in the [Backup and Recovery guide](https://objectrocket.com/docs/mongodb_backup_and_recovery.html)
 
-### ObjectRocket API
+### ObjectRocket APIs
 
-The ObjectRocket API is a REST-based HTTP API over SSL. You can use the API in addition to and along with the MongoDB driver access into
-ObjectRocket.
+ObjectRocket has robust APIs to seamlessly integrate and manage data between applications and databases.
 
 -  [Overview](https://objectrocket.com/docs/api_v2_getting_started.html)
 -  [Authentication](https://objectrocket.com/docs/api_v2_getting_started.html#authentication)
