@@ -11,7 +11,7 @@ product: Cloud Servers
 product_url: cloud-servers
 ---
 
-### What is ObjectRocket?
+This article provides information about the documentation that is available for ObjectRocket.
 
 ObjectRocket is a database-as-a-service (DBaaS) that provides fully-managed database services, with multi-cloud support for 5 different databases. We offer database hosting, management, and administration for modern sites and applications in data centers across the globe. The ObjectRocket platform is Kubernetes-based, using the latest containerization and automation technologies to ensure highly available, robust data stores.
 
